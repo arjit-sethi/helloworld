@@ -261,7 +261,7 @@ int main()
     }
 
     Palindromes palindromes( N );
-    cout << palindromes.givePalindrome( a,N ) << endl;
+    cout << pal.givePalindrome( a,N ) << endl;
 
     //6 9 9 6 20 13 18 16 16 18 13 20 11 20 20 11
     //64
